@@ -4,8 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://filipdevos.github.io',
-	base: '/pages',
+	site: 'https://foxtricks.com',
 	integrations: [
 		starlight({
 			title: 'Foxtricks random things of interest',
